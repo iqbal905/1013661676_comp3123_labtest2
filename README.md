@@ -40,4 +40,4 @@ OpenWeatherMap Current Weather API
 ![Postman Forecast](public/screenshots/Weather Postman.png)
 
 ## Hosting Link
-(Your Vercel link after deployment)
+https://1013661676-comp3123-labtest2.vercel.app/
