@@ -24,7 +24,20 @@ OpenWeatherMap Current Weather API
 4. Run the app: `npm start`
 
 ## Screenshots
-(Insert your screenshots here)
+## Screenshots
+
+### Home Page
+![Home Page](public/screenshots/Home.png)
+
+### Search Result
+![Search Result](public/screenshots/Search.png)
+
+### Weekly Forecast
+![Weekly Forecast](public/screenshots/Forcast1.png)
+![Weekly Forecast](public/screenshots/Forcast1.png)
+
+### Postman Result
+![Postman Forecast](public/screenshots/Weather Postman.png)
 
 ## Hosting Link
 (Your Vercel link after deployment)
